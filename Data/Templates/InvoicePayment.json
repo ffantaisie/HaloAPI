@@ -1,0 +1,23 @@
+[
+  {
+    "ipid": 0,
+    "ipihid": 0,
+    "ipdate": "2023-06-14T19:52:26.110Z",
+    "ipamount": 0,
+    "ipmethod": 0,
+    "ipstatus": 0,
+    "ipmsid": 0,
+    "ipintentid": "string",
+    "ipintentdate": "2023-06-14T19:52:26.110Z",
+    "ipintentresponse": "string",
+    "ipwebhookpayload": "string",
+    "ipwebhookreceiveddate": "2023-06-14T19:52:26.110Z",
+    "ipsage50reference": "string",
+    "client_id": 0,
+    "client_name": "string",
+    "_statuswarning": "string",
+    "_warning": "string",
+    "ipqboid": 0,
+    "ipxeroid": "string"
+  }
+]
